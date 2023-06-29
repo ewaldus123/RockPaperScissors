@@ -1,0 +1,1 @@
+In this Repo I will make a Rock, Paper, Scissors game through The Odin Project. Wish me luck!
